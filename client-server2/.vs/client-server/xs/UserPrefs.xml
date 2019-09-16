@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{E8BA97BF-3F22-8E03-472F-1D8325047A8C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ServerHost.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ServerHost.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ServerClient.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ARDamage.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnemyScript.cs" />
+      <File FileName="Assets/Scripts/MainMenu.cs" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
+      <File FileName="Assets/Scripts/NewMonoBehaviour.cs" Line="266" Column="7" />
+      <File FileName="Assets/Scripts/NewMonoBehaviour.cs" Line="246" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="client-server" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ServerHost.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d73bf2d8-24cb-4916-bbbe-b6ef02a40d00" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
